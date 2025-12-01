@@ -100,13 +100,13 @@ E-Commerce-Shipping-Prediction/
 
 ## 🧑‍💻 Author
 
-**[Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/) – Data Scientist & AI Engineer**
+**[Sagarbyte](https://www.linkedin.com/in/Sagarbyte/) – Data Scientist & AI Engineer**
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tajamulkhann/">
+<a href="https://www.linkedin.com/in/Sagarbyte/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/tajamul.datascientist/" target="_blank">
@@ -127,7 +127,7 @@ E-Commerce-Shipping-Prediction/
 <a href="https://www.kaggle.com/tajamulkhan">
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
-<a href="https://github.com/tajamulkhann">
+<a href="https://github.com/Sagarbyte">
 <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://medium.com/@tajamulkhan">
